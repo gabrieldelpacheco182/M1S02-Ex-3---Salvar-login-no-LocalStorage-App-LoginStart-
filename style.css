@@ -1,0 +1,23 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(202, 186, 161, 0.541);
+}
+
+div#acesso {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    background-color: beige;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input, button {
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+}
